@@ -1,7 +1,8 @@
 # Thug Life Filter Using Python
 Thug Life Filter Created Using Python, Open-CV &amp; DLIB
 
-### =========== Installation ==================
+```Initially Made By Rudransh Joshi [Fire Head]```
+### ============== Installation ===============
 
 Step 1. Download anaconda from https://www.anaconda.com/download/
 
@@ -34,12 +35,12 @@ Step 9. Exit and deactivate the env
 
 deactivate
 
-### =============================================================
+### ===========================================
 
 
 
 
-### ========================= Usage =============================
+### ================== Usage ==================
 
 Step 1. CD to the directory where files are located.
 
@@ -53,11 +54,11 @@ Step 4. Exit and deactivate the env
 > CTRL^C or ESC Key
 > deactivate
 
-### =============================================================
+### ===========================================
 
-### ------------------------ Licence ----------------------------
+### ---------------- Licence ------------------
 
 This Project Is Licenced Under GNU GPL v3 Licence <br>
 Read <a href="https://github.com/FireHead90544/thug-life-filter-using-python/blob/master/LICENSE" target="_blank">The Licence</a> For More Info About Usage Rights
 
-### -------------------------------------------------------------
+### -------------------------------------------
