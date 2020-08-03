@@ -1,7 +1,7 @@
 # Thug Life Filter Using Python
 Thug Life Filter Created Using Python, Open-CV &amp; DLIB
 
-### ==================== Installation ============================
+### =========== Installation ==================
 
 Step 1. Download anaconda from https://www.anaconda.com/download/
 
