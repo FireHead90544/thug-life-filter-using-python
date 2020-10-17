@@ -4,18 +4,18 @@ Thug Life Filter Created Using Python, Open-CV &amp; DLIB
 ```Initially Made By Rudransh Joshi [Fire Head]```
 ### ============== Installation ===============
 
-Step 1. Download the Anaconda Distribution from https://www.anaconda.com/download/
+Step 1. Download anaconda from https://www.anaconda.com/download/
 
-Step 2. Run CMD with admin priviledges. (Administrator Mode)
+Step 2. Open CMD in administrator mode.
 
-Step 3. To ensure that all the libraries are up-to-date, type:
+Step 3. Make sure that all conda libraries are up-to-date. Type:
 > conda update conda
 > conda update anaconda
 
 Step 4. Create a new environment
 > conda create -n dlib_env python=3.6
 
-Step 5. Activate the conda environment by typing in the console
+Step 5. Activate the conda environment
 > conda activate dlib_env
 
 Step 6. Install dlib
