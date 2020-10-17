@@ -1,5 +1,5 @@
 # Thug Life Filter Using Python
-Thug Life Filter Created Using Python, Open-CV &amp; DLIB
+Languages and Libraries Used: Python, Open-CV &amp; DLIB
 
 ```Initially Made By Rudransh Joshi [Fire Head]```
 ### ============== Installation ===============
