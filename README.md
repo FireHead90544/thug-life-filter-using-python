@@ -38,7 +38,7 @@ deactivate
 ### =========================================
 
 
-## Note: Download This Data File And Paste It To The Same Directory The Other Files Are Located, Or Else The It Won't Work: <a href="https://github.com/AKSHAYUBHAT/TensorFace/raw/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat">shape_predictor_68_face_landmarks.dat</a>
+## Note: Download This Data File And Paste It To The Same Directory The Other Files Are Located, Or Else It Won't Work: <a href="http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2">shape_predictor_68_face_landmarks.dat (Extract It After Downloading)</a>
 
 
 ### ================== Usage ==================
